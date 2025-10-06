@@ -45,4 +45,4 @@ ciclo de desarrollo) y luego resultar frustrantemente difícil cuando se trata d
 ------
 
 
-Last Edited on: 18/11/2023
+Ultima edicion el: 06/10/2025
