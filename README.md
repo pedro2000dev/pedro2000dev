@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 
 ------
 
+Un marco puede proporcionar el 90% de las características que necesitamos rápidamente (lo que nos da una falsa sensación de confianza al comienzo del ciclo de desarrollo) y luego resultar frustrantemente difícil cuando se trata de implementar el último 10%.
+
 Last Edited on: 18/11/2023
