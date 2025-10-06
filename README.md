@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aneal07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+### ✍️ <h2>Cita aleatoria de un desarrollador</h2>
   Un marco puede proporcionar el 90% de las características que necesitamos rápidamente (lo que nos da una falsa sensación de confianza al comienzo del 
 ciclo de desarrollo) y luego resultar frustrantemente difícil cuando se trata de implementar el último 10%.
 
