@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Aneal07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  Un marco puede proporcionar el 90% de las características que necesitamos rápidamente (lo que nos da una falsa sensación de confianza al comienzo del 
+ciclo de desarrollo) y luego resultar frustrantemente difícil cuando se trata de implementar el último 10%.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
 
 ------
 
-Un marco puede proporcionar el 90% de las características que necesitamos rápidamente (lo que nos da una falsa sensación de confianza al comienzo del ciclo de desarrollo) y luego resultar frustrantemente difícil cuando se trata de implementar el último 10%.
 
 Last Edited on: 18/11/2023
